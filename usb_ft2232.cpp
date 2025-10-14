@@ -33,7 +33,7 @@ typedef NTSTATUS(WINAPI* NtSetTimerResolution_t)(ULONG, BOOLEAN, PULONG);
 #include "ftd2xx.h"
 using namespace Qt::StringLiterals;
 
-constexpr char SERIAL_NUM[] = "FT5QBYO6A";
+constexpr char SERIAL_NUM[] = "";
 constexpr int EP_SIZE = 64 * 1024;
 constexpr int PAYLOAD_LEN = 9;
 constexpr int READ_CHUNK = 128 * 1024;
@@ -2014,5 +2014,6 @@ int main(int argc, char** argv) {
     w.show();
     return a.exec();
 }
+
 
 
