@@ -2,6 +2,7 @@
 USB 2.0 PC↔FPGA link using FT2232H Sync-FIFO — full Verilog core
 
 Youtube video with full description:
+[![Watch the video](https://img.youtube.com/vi/ncycQz0_130/0.jpg)](https://www.youtube.com/watch?v=ncycQz0_130)
 
 [![Watch the video](https://img.youtube.com/vi/_EXbC-wSyBg/0.jpg)](https://www.youtube.com/watch?v=_EXbC-wSyBg)
 
